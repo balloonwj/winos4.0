@@ -74,3 +74,6 @@
 
 
 加微信`easy_coder`，非诚勿扰。
+
+
+带你从零用AI开发大型商业远程控制套件训练营，报名[链接](https://mp.weixin.qq.com/s/4_7YD-fJEH0tar6W99TlqQ)，备注“训练营”，非诚勿扰。
